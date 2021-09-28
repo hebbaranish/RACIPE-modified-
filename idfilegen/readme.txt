@@ -1,0 +1,1 @@
+enter the network for you want ids files in the init.txt file. the .topo file needs to be in the input directory. ids file will be created in the input directory after that.
